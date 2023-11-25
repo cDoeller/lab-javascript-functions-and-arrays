@@ -173,7 +173,7 @@ function howManyTimes(array, wordToSearch) {
       counter ++;
     }
   }) 
-  return counter;
+  return counter
 }
 
 // Iteration #8: Bonus
